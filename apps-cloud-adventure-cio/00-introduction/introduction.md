@@ -2,6 +2,8 @@
 
 ## About this AI Adventure
 
+## I'm just testing on 10-16-2026 to see if this change makes it to the staging site.
+
 Are you a SaaS Application Administrator or Analyst? Are you tasked with setting up users, configuring page layouts and approval workflows? Are you responsible for integrations or creating new reports & dashboards? Get hands-on experience to learn and become more efficient on these activities and more! Join us for a two-hour fun filled journey where you will leverage built in tools and capabilities to extend, configure, and integrate Oracle Fusion Cloud Applications. This experience includes application user security, UI configurations, creating extensions, AI Agents and analytical reports/dashboards.
 
 Estimated Adventure Time: 2 hours
