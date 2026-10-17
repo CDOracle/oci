@@ -203,7 +203,7 @@
     [![AI Adventure](../00-introduction/images/adventure-checkpoint.png)](https://apex.oracle.com/pls/apex/f?p=159406:LOGIN_TEAM:::::CC:CIOADVENTURE)
 
 
-## Path 2: Request Access with Risk Management
+## Path 2: Request Access with Risk Management Cloud at Oracle AI World in 2025
 ### **Request Access with Risk Management**
 
 ### **Introduction**
